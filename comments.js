@@ -1,4 +1,4 @@
-// Create web sever 
+// Create web server 
 //control + enter to retrieve copilot funsies
 // 1. npm init -y
 // 2. npm install express
