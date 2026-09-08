@@ -13,6 +13,17 @@
 
 _GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
 
+> **Project status:** Completed learning exercise based on the GitHub Skills course. This repository is retained as a record of the exercises rather than an actively maintained application.
+
+## What this repository demonstrates
+
+- Configuring GitHub Copilot in a Codespace
+- Using code completion suggestions in VS Code
+- Comparing alternative suggestions
+- Guiding suggestions with comments
+
+The course material and licensing remain attributed to GitHub below.
+
 </header>
 
 <!--
